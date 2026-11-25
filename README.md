@@ -20,3 +20,11 @@ Buying a phone or laptop on installments could require a separate trip to a bank
 Customers could apply for installment financing at either location without a separate trip to a bank branch. When I moved to the United States, I exited the business and received payment for my ownership stake. My co-founder continued running the stores.
 
 This project taught me to map a customer process end to end, coordinate external partners, and make a new workflow practical for frontline staff.
+
+## Store location and photos
+
+**Kalpak Store** · 40 Absamat Masaliev Avenue, Osh, Kyrgyzstan
+
+This is one of the two electronics stores we opened in Osh. The public map listing shows the shop’s location and includes photos.
+
+[View the store listing](https://yandex.com/maps/org/kalpakstore/52243165488/) · [View the photo gallery](https://yandex.com/maps/org/kalpak/52243165488/gallery/)
