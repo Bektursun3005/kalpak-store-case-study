@@ -27,4 +27,8 @@ This project taught me to map a customer process end to end, coordinate external
 
 This is one of the two electronics stores we opened in Osh. The public map listing shows the shop’s location and includes photos.
 
+![Kalpak Store, Osh — photo 1](https://avatars.mds.yandex.net/get-altay/13754922/2a00000191bcc00292770b3a14d2edb3e33f/XXL_height)
+
+![Kalpak Store, Osh — photo 2](https://avatars.mds.yandex.net/get-altay/11376278/2a0000018fec7008136c02d361bb01788c3e/XXL_height)
+
 [View the store listing](https://yandex.com/maps/org/kalpakstore/52243165488/) · [View the photo gallery](https://yandex.com/maps/org/kalpak/52243165488/gallery/)
