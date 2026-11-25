@@ -9,11 +9,29 @@ I proposed opening an electronics retail business in Osh. My co-founder and I co
 
 Buying a phone or laptop on installments could require a separate trip to a bank. We wanted customers to be able to apply for financing directly at the store.
 
+```mermaid
+flowchart LR
+    subgraph Before["Before"]
+        A["Choose a phone or laptop"] --> B["A separate trip to a bank branch could be needed"]
+    end
+    subgraph AtKalpakStore["At Kalpak Store"]
+        C["Choose a phone or laptop"] --> D["Apply for installment financing in the store"]
+    end
+```
+
 ## What we did
 
-- We planned the launch together, found retail locations, hired staff, and sourced inventory.
-- Drawing on my banking and microfinance experience, I helped establish financing arrangements with MBank, Kyrgyzkommertsbank, M Bulak, and Bakai Bank.
-- We introduced an in-store process that let customers apply for installment financing while shopping. My co-founder began running store operations while I continued working at Elet-Capital.
+**My role**
+
+- Proposed the idea for the business.
+- Drew on my banking and microfinance experience to help establish installment financing arrangements with MBank, Kyrgyzkommertsbank, M Bulak, and Bakai Bank.
+
+**Together with my co-founder**
+
+- Planned the launch, found retail locations, hired staff, and sourced inventory.
+- Introduced an in-store process that let customers apply for financing while shopping.
+
+My co-founder then ran store operations while I continued working at Elet-Capital.
 
 ## Result
 
